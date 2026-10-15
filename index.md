@@ -26,7 +26,7 @@ One of the challenges I encountered was getting familiar with the original code 
 
 ### Project Files
 
-- [Original Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-300_Project_Two_Original.zip)
+- [Download Original Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-300%20Project%20Two%20-%20Original.zip)
 - [Enhanced Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-300_Project_Two_Enhanced.zip)
 - [Enhancement Narrative](https://github.com/ethan-compton/ethan-compton.github/blob/main/Milestone_Three_Narrative.docx)
 

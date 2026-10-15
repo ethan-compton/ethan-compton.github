@@ -27,3 +27,19 @@ For my enhancement, I focused on improving how the different parts of the applic
 * [Original Project](CS-320%20Project%20One.zip)
 * [Enhanced Project](CS-320_Project_One_Enhanced.zip)
 * [Enhancement Narrative](Milestone_Two_Narrative.docx)
+
+---
+
+## Algorithms and Data Structures — CS-300
+
+### Project Overview
+
+For my algorithms and data structures enhancement, I selected a C++ course advising application from my CS-300 course. The original program was designed to load course information from a CSV file and allow users to view a complete course list or search for individual courses. It used a hash table to organize and retrieve course information, including course numbers, titles, and prerequisites.
+
+For my enhancement, I added a prefix-based search feature that allows users to search for courses without entering an exact course number. For example, entering "CS" displays a sorted list of courses that begin with those letters. I also made the search case-insensitive to make it easier to use. This enhancement allowed me to apply additional searching and sorting techniques while keeping the original functionality intact.
+
+### Project Files
+
+- [Original Project](CS-300_Project_Two_Original.zip)
+- [Enhanced Project](CS-300_Project_Two_Enhanced.zip)
+- [Enhancement Narrative](Milestone_Three_Narrative.docx)

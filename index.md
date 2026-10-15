@@ -45,3 +45,21 @@ For my enhancement, I focused on improving how the different parts of the applic
 - [Original Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-320%20Project%20One.zip)
 - [Enhanced Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-320_Project_One_Enhanced.zip)
 - [Enhancement Narrative](Milestone_Two_Narrative.docx)
+
+---
+
+## Databases — CS-340
+
+### Project Overview
+
+For my database enhancement, I selected a Python and MongoDB application from my CS-340 Client/Server Development course. The original project was developed for a fictional organization called Grazioso Salvare and was designed to manage animal shelter information. It included a CRUD module for interacting with the database and a dashboard that allowed users to view, filter, and visualize animal records.
+
+For my enhancement, I focused on improving how the application retrieved and managed information. I updated the dashboard so that filtering was handled directly through MongoDB queries instead of retrieving the entire collection and filtering the results afterward. I also improved input validation, added indexes to commonly searched fields, and introduced protections against database operations that could accidentally modify or delete large amounts of data.
+
+These changes helped improve the application's efficiency, reliability, and security. Working on this enhancement also gave me more experience with database integration and showed me how important it is to consider performance and data protection when developing applications.
+
+### Project Files
+
+- [Original Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-340%20Project%20Two%20-%20Original.zip)
+- [Enhanced Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-340%20Project%20Two%20-%20Enhanced.zip)
+- [Enhancement Narrative](Milestone_Four_Narrative.docx)

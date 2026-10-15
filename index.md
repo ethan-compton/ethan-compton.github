@@ -28,7 +28,7 @@ One of the challenges I encountered was getting familiar with the original code 
 
 - [Original Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-300%20Project%20Two%20-%20Original.zip)
 - [Enhanced Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-300_Project_Two_Enhanced.zip)
-- [Enhancement Narrative](https://github.com/ethan-compton/ethan-compton.github/blob/main/Milestone_Three_Narrative.docx)
+- [Enhancement Narrative](Milestone_Three_Narrative.docx)
 
 ---
 
@@ -44,4 +44,4 @@ For my enhancement, I focused on improving how the different parts of the applic
 
 - [Original Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-320%20Project%20One.zip)
 - [Enhanced Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-320_Project_One_Enhanced.zip)
-- [Enhancement Narrative](https://github.com/ethan-compton/ethan-compton.github/blob/main/Milestone_Two_Narrative.docx)
+- [Enhancement Narrative](Milestone_Two_Narrative.docx)

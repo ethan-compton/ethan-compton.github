@@ -42,6 +42,6 @@ For my enhancement, I focused on improving how the different parts of the applic
 
 ### Project Files
 
-- [Download Original Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-320%20Project%20One.zip)
-- [Download Enhanced Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-320_Project_One_Enhanced.zip)
-- [View Enhancement Narrative](https://github.com/ethan-compton/ethan-compton.github/blob/main/Milestone_Two_Narrative.docx)
+- [Original Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-320%20Project%20One.zip)
+- [Enhanced Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-320_Project_One_Enhanced.zip)
+- [Enhancement Narrative](https://github.com/ethan-compton/ethan-compton.github/blob/main/Milestone_Two_Narrative.docx)

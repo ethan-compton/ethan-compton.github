@@ -11,3 +11,19 @@ My coursework has also introduced me to several areas of computer science that I
 For my capstone project, I had the opportunity to go back and improve three assignments from previous courses. My first enhancement involved a Java application from CS-320 that managed contacts, tasks, and appointments. I improved how the contact and appointment services worked together and made changes to input validation and automated testing. For my second enhancement, I worked with a C++ course advising application from CS-300 and added a feature that allowed users to search for courses using partial course numbers. My final enhancement involved a Python and MongoDB application from CS-340, where I improved database queries, validation, and data retrieval. Working on these projects gave me a chance to apply what I've learned throughout the program while also dealing with some of the challenges of returning to older code. I had to spend time understanding how each application worked before I could make improvements, which helped me see the importance of maintaining organized and readable code.
 
 As I get closer to graduating, I'm excited to see where my computer science degree takes me. I'm still figuring out exactly what direction I want to go in, but application development is an area that I've particularly enjoyed learning about. I like the idea of creating software that people can actually use, and I'd like to continue improving my programming skills as I gain more experience. I know there's still plenty for me to learn, especially when it comes to working in a professional environment, but I feel like my time at SNHU has given me a good foundation to build on. Completing this degree has taken a lot of time and effort, and I'm proud of how far I've come.
+
+---
+
+## Software Design and Engineering — CS-320
+
+### Project Overview
+
+For my software design and engineering enhancement, I chose a Java application from my CS-320 Software Testing, Automation, and Quality Assurance course. The original project involved managing contacts, tasks, and appointments through separate services. Each service handled its own information and included validation to prevent invalid data from being entered.
+
+For my enhancement, I focused on improving how the different parts of the application worked together. I added a connection between contacts and appointments, allowing appointments to be associated with specific contacts. I also improved input validation and expanded the automated testing to make sure the new functionality worked correctly. These changes helped make the application more organized, reliable, and easier to maintain.
+
+### Project Files
+
+* [Original Project](CS-320%20Project%20One.zip)
+* [Enhanced Project](CS-320_Project_One_Enhanced.zip)
+* [Enhancement Narrative](Milestone_Two_Narrative.docx)

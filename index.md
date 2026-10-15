@@ -14,21 +14,21 @@ As I get closer to graduating, I'm excited to see where my computer science degr
 
 ---
 
-## Software Design and Engineering — CS-320
+## Algorithms and Data Structures — CS-300
 
 ### Project Overview
 
-For my software design and engineering enhancement, I chose a Java application from my CS-320 Software Testing, Automation, and Quality Assurance course. The original project involved managing contacts, tasks, and appointments through separate services. Each service handled its own information and included validation to prevent invalid data from being entered.
+For my algorithms and data structures enhancement, I selected a C++ course advising application from my CS-300 course. The original program loaded course information from a CSV file and allowed users to view a complete course list or search for individual courses. It used a hash table to organize and retrieve course information, including course numbers, titles, and prerequisites.
 
-For my enhancement, I focused on improving how the different parts of the application worked together. I added a connection between contacts and appointments, allowing appointments to be associated with specific contacts. I also improved input validation and expanded the automated testing to make sure the new functionality worked correctly. These changes helped make the application more organized, reliable, and easier to maintain.
+For my enhancement, I added a prefix-based search feature that allows users to find courses without entering an exact course number. For example, entering "CS" displays a sorted list of courses that begin with those letters. I also made the search case-insensitive to make it easier to use. This enhancement gave me an opportunity to work with searching and sorting algorithms while maintaining the program's original functionality.
+
+One of the challenges I encountered was getting familiar with the original code again and understanding how the hash table and search functions worked together. I also had to correct a file path issue that initially prevented the program from loading its course data. Working through these problems helped me better understand how different algorithms can work with the same data structure and reinforced the importance of testing changes to existing programs.
 
 ### Project Files
 
-* [Original Project](CS-320%20Project%20One.zip)
-* [Enhanced Project](CS-320_Project_One_Enhanced.zip)
-* [Enhancement Narrative](Milestone_Two_Narrative.docx)
-
----
+- [Original Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-300_Project_Two_Original.zip)
+- [Enhanced Project](https://github.com/ethan-compton/ethan-compton.github/raw/refs/heads/main/CS-300_Project_Two_Enhanced.zip)
+- [Enhancement Narrative](https://github.com/ethan-compton/ethan-compton.github/blob/main/Milestone_Three_Narrative.docx)
 
 ---
 
